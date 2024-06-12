@@ -2,7 +2,7 @@
   "version": 2,
   "routes": [
     {
-      "src": "/api/tasks/(.*)",
+      "src": "/api/v1/tasks/(.*)",
       "dest": "/routes/tasks.js"
     },
     {
