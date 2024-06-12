@@ -12,7 +12,7 @@
       "dest": "/app.js"
     },
     {
-      "src": "/(.*)",
+      "src": "/api/v1/tasks",
       "dest": "/public/index.html"
     }
   ]
