@@ -17,16 +17,17 @@ Ensure you have the following installed on your local machine:
 
 - Node.js (v14.x or higher)
 - npm (v6.x or higher)
+- Mongoose(v5 or higher)
 
 ### Installation
 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/your-username/to-do-list.git
 
 2. Navigate to the project directory:
-   cd todo-list
+   cd to-do-list
 
 3. Install the necessary dependencies:
    npm install
