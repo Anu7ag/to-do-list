@@ -24,7 +24,7 @@ Ensure you have the following installed on your local machine:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/to-do-list.git
+   git clone https://github.com/Anu7ag/to-do-list.git
 
 2. Navigate to the project directory:
    cd to-do-list
